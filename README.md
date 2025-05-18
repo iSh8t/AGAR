@@ -1,3 +1,3 @@
 # Android Garbage Applications Manager (AGAM)
 
-🔥 A utility to manage garbage applications in Android. 
+🔥 A utility to manage garbage applications in Android.
