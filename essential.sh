@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+echo 'Google'
+
 adb shell pm uninstall --user 0 'com.android.bips'
 adb shell pm uninstall --user 0 'com.android.bluetoothmidiservice'
 adb shell pm uninstall --user 0 'com.android.bookmarkprovider'
@@ -16,8 +18,6 @@ adb shell pm uninstall --user 0 'com.android.storagemanager'
 adb shell pm uninstall --user 0 'com.android.systemui.plugin.globalactions.wallet'
 adb shell pm uninstall --user 0 'com.android.traceur'
 adb shell pm uninstall --user 0 'com.android.wallpaper.livepicker'
-
-echo 'Google LLC'
 
 adb shell pm uninstall --user 0 'com.google.ambient.streaming'
 adb shell pm uninstall --user 0 'com.google.android.adservices.api'
@@ -44,13 +44,13 @@ adb shell pm uninstall --user 0 'com.google.ar.lens'
 adb shell pm uninstall --user 0 'com.google.mainline.adservices'
 adb shell pm uninstall --user 0 'com.google.mainline.telemetry'
 
-echo 'Meta Platforms, Inc.'
+echo 'Meta'
 
 adb shell pm uninstall --user 0 'com.facebook.appmanager'
 adb shell pm uninstall --user 0 'com.facebook.services'
 adb shell pm uninstall --user 0 'com.facebook.system'
 
-echo 'Microsoft Corp.'
+echo 'Microsoft'
 
 adb shell pm uninstall --user 0 'com.microsoft.appmanager'
 adb shell pm uninstall --user 0 'com.microsoft.deviceintegrationservice'

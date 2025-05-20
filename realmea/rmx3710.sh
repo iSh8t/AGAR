@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+echo 'OPPO'
+
 adb shell pm uninstall --user 0 'com.coloros.activation'
 adb shell pm uninstall --user 0 'com.coloros.childrenspace'
 adb shell pm uninstall --user 0 'com.coloros.compass2'
@@ -31,8 +33,6 @@ adb shell pm uninstall --user 0 'com.heytap.pictorial'
 adb shell pm uninstall --user 0 'com.heytap.usercenter'
 adb shell pm uninstall --user 0 'com.payjoy.access'
 adb shell pm uninstall --user 0 'com.wapi.wapicertmanager'
-
-echo 'OnePlus Ltd.'
 
 adb shell pm uninstall --user 0 'com.oplus.account'
 adb shell pm uninstall --user 0 'com.oplus.aiunit'
@@ -75,21 +75,17 @@ adb shell pm uninstall --user 0 'com.oplus.viewtalk'
 adb shell pm uninstall --user 0 'com.oplus.wifibackuprestore'
 adb shell pm uninstall --user 0 'com.ses.entitlement.o2'
 
-echo 'Oppo'
-
 adb shell pm uninstall --user 0 'com.oppo.quicksearchbox'
-
-echo 'Realme'
 
 adb shell pm uninstall --user 0 'com.realme.movieshot'
 adb shell pm uninstall --user 0 'com.realme.wellbeing'
 
-echo 'Realtek'
+echo 'MediaTek'
 
 adb shell pm uninstall --user 0 'com.Btek.engineermode'
 adb shell pm uninstall --user 0 'com.Btek.omacp'
 adb shell pm uninstall --user 0 'com.Btek.voicecommand'
 
-echo 'Tencent Inc.'
+echo 'Tencent'
 
 adb shell pm uninstall --user 0 'com.tencent.soter.soterserver'
