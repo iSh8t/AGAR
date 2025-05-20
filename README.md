@@ -1,1 +1,1 @@
-# Android Garbage Manager (AGM)
+# Android Garbage Application Remover (AGAR)
