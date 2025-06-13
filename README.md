@@ -1,1 +1,1 @@
-# Android Garbage Application Remover (AGAR)
+# Android Garbage Application Remover
