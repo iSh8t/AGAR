@@ -10,10 +10,10 @@
 			"text": "Follow the conventional commit message format."
 		},
 		{
-			"text": "Use only the following commit types: 'fix' (for bug fixes), 'ref' (for refactorings), 'feat' (for features), and 'misc' (if none of the previous apply)."
+			"text": "Use only the following commit types: 'fix' (bug fix), 'ref' (code refactor), 'feat' (new features), and 'misc' (if none of the previous apply)."
 		},
 		{
-			"text": "If the change affects Shell language files (.sh), the scope must be 'script'."
+			"text": "If the change affects shell language files (.sh), the scope must be 'script'."
 		},
 		{
 			"text": "The first word of the description must start with a lowercase letter (except if it is an abbreviation, acronym, or similar)."
