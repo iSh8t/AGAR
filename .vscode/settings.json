@@ -1,25 +1,34 @@
 {
 	"github.copilot.chat.commitMessageGeneration.instructions": [
 		{
-			"text": "Write all commit messages in Spanish from Spain."
+			"text": "Follow the conventional commit message format."
+		},
+		{
+			"text": "Write the commit message in Spanish from Spain."
+		},
+		{
+			"text": "Write the commit message always with a period at the end."
+		},
+		{
+			"text": "Write the commit message always in lower case (except with abbreviations, acronyms or similar)."
 		},
 		{
 			"text": "Limit the first line to 72 characters or less."
 		},
 		{
-			"text": "Follow the conventional commit message format."
+			"text": "Follow the commit type 'fix' for bug fixes."
 		},
 		{
-			"text": "Use only the following commit types: 'fix' (bug fix), 'ref' (code refactor), 'feat' (new features), and 'misc' (if none of the previous apply)."
+			"text": "Follow the commit type 'ref' for code refactoring."
 		},
 		{
-			"text": "If the change affects shell language files (.sh), the scope must be 'script'."
+			"text": "Follow the commit type 'feat' for new features."
 		},
 		{
-			"text": "The first word of the description must start with a lowercase letter (except if it is an abbreviation, acronym, or similar)."
+			"text": "Follow the commit type 'misc' if none applies."
 		},
 		{
-			"text": "The description must always end with a period."
+			"text": "Follow the commit scope 'script' if the change affects shell (.sh) files."
 		}
 	]
 }
