@@ -1,13 +1,15 @@
 # Android Garbage Application Remover
 
-## Requirements
+Se trata de una herramienta para limpiar los dispositivos de aplicaciones basura con Android.
 
-1. Download and install [Android SDK Platform-Tools.](https://developer.android.com/tools/releases/platform-tools#downloads)
+## ¿Cómo se utiliza la herramienta?
 
-2. Run first the [essential](https://raw.githubusercontent.com/ish8t/agar/refs/heads/master/source/essential.sh) file.
+1. Vaya a [Android SDK Platform-Tools](https://developer.android.com/tools/releases/platform-tools#downloads), descargue e instale.
 
-## Catalog
+2. Ejecuté el archivo [`essential`.](https://raw.githubusercontent.com/ish8t/agar/refs/heads/master/source/essential.sh)
 
-| Name        | Model                                                                                              |
+3. Busque y ejecute el archivo para su modelo de dispositivo a continuación…
+
+| Nombre      | Modelo                                                                                             |
 | ----------- | -------------------------------------------------------------------------------------------------- |
 | Realme C55  | [RMX3710](https://raw.githubusercontent.com/ish8t/agar/refs/heads/master/source/realme/rmx3710.sh) |
