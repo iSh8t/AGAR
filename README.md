@@ -1,6 +1,6 @@
 # Android Garbage Application Remover
 
-Se trata de una herramienta para limpiar los dispositivos de aplicaciones basura con Android.
+Se trata de una herramienta para limpiar dispositivos de aplicaciones basura con Android.
 
 ## ¿Cómo se utiliza la herramienta?
 
