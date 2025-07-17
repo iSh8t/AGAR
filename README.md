@@ -8,8 +8,6 @@ Solamente descargue e instale [Android SDK Platform-Tools](https://developer.and
 
 Ahora, ejecuté el archivo [`essential.sh`](https://raw.githubusercontent.com/ish8t/agar/refs/heads/master/source/essential.sh).
 
-Asimismo, busque y ejecute el archivo para su modelo de dispositivo a continuación…
+Asimismo, busque y ejecute el archivo para su dispositivo a continuación…
 
-Modelo                                                                                             | Marca       | Sistema
--------------------------------------------------------------------------------------------------- | ----------- | ---------------------------
-[RMX3710](https://raw.githubusercontent.com/ish8t/agar/refs/heads/master/source/realme/rmx3710.sh) | Realme C55  | Android 15 (Realme UI 6.0)
+1. [Realme C55 (RMX3710)](https://raw.githubusercontent.com/ish8t/agar/refs/heads/master/source/realme/rmx3710.sh).
